@@ -1,0 +1,13 @@
+.boxblue {
+  margin-left: 40px;
+  padding: 30px;
+}
+h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 500px;
+  font-size: medium;
+  color: pink;
+}
+a {
+  text-decoration: none;
+}
